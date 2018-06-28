@@ -2,7 +2,7 @@
 
 I had to build a little android app using java (it sucks ,i know ...)!
 
-##What does it do ?
+## What does it do ?
 
 1. Select or take a photo!
 2. Give it a name!
