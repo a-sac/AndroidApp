@@ -1,6 +1,6 @@
 # AndroidApp
 
-I had to build a little android app using java (it sucks ,i know ...)!
+I had to develop a little android app using java (it sucks ,i know ...)!
 
 ## What does it do ?
 
