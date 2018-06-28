@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">biapp</string>
+    <string name="nome">Nome</string>
+    <string name="select">Select or capture image</string>
+    <string name="save">Save</string>
+    <string name="data">Data</string>
+</resources>
